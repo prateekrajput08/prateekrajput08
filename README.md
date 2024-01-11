@@ -49,6 +49,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/prateekrajput08/prateekrajput08/output/snake.svg" alt="Snake animation" />
-
-###
