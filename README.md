@@ -5,7 +5,7 @@
 </div>
 
 ## 🖐️ About Me
-- My full name is **Prateek Rajput** <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align="right"/>
+- My full name is **Prateek Rajput** <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
 - My major is **Full-stack Development**
 - Primary Focus: Google Cloud Platform (GCP)—designing scalable and secure architectures.
 - I'm interested in coding, sleeping, and watching film
