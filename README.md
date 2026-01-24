@@ -1,12 +1,15 @@
-## 🖐️ About Me
+<div align="left">
+      <img src="https://komarev.com/ghpvc/?username=prateekrajput08&label=Profile%20views&color=0e75b6&style=flat" alt="prateekrajput08" />
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/prateekrajput08?style=social"> 
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/prateekrajput08?style=social">
+</div>
 
-- My full name is **Prateek Rajput** <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
+## 🖐️ About Me
+- My full name is **Prateek Rajput** <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align="right"/>
 - My major is **Full-stack Development**
 - Primary Focus: Google Cloud Platform (GCP)—designing scalable and secure architectures.
 - I'm interested in coding, sleeping, and watching film
 - My quote is ***"It's never too late - never too late to start over, never too late to be happy"***
-##
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/prateekrajput08?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/prateekrajput08?style=social"> &nbsp;&nbsp; <img alt="prateekrajput08 | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 ## 🌐 Connect With Me
 
