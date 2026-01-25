@@ -1,5 +1,5 @@
 <div align="left">
-      <img src="https://enemo786q3svfle.m.pipedream.net?username=prateekrajput08&label=Profile%20views&color=0e75b6&style=flat" alt="prateekrajput08" />
+      <img src="https://komarev.com/ghpvc/?username=prateekrajput08&label=Profile%20views&color=0e75b6&style=flat" alt="prateekrajput08" />
       <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/prateekrajput08?style=social"> 
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/prateekrajput08?style=social">
 </div>
