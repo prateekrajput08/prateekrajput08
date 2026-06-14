@@ -21,7 +21,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TechCode9)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cAC9h4eg)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techcodefacilitator@gmail.com)
-[![Website](https://img.shields.io/badge/-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arcadecalci.vercel.app)
+[![Website](https://img.shields.io/badge/-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arcadepointscalci.in)
 
 
 
