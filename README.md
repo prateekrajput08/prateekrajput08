@@ -7,8 +7,8 @@
 ## 🖐️ About Me
 - 🎓 B.Tech in **Computer Science & Engineering** — GL Bajaj Institute of Technology and Management, '25 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
 - ☁️ Primary Focus: **DevOps & Cloud (GCP)** — building scalable, automated infrastructure
-- 🔧 Stack: **React.js | Node.js | Docker | Kubernetes | AWS | Linux**
 - 🧑‍💻 Programming: **Python | Bash | Java | JavaScript**
+- 🔧 Stack: **React.js | Node.js | Docker | Kubernetes | AWS | Linux**
 - 🧩 Also maintain **[Arcade Points Calci](https://arcadepointscalci.in)** — a tool used by Google Cloud Arcade participants
 - 🎯 Currently seeking: **Entry-level DevOps Role**
 - 🎮 Off the clock: troubleshooting, sleeping, watching Netflix
